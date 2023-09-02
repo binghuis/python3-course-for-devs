@@ -1,4 +1,4 @@
-# Learn Python3 By TypeScript
+# 给 TypeScript 开发者写的 Python3 语法教程
 
 ![jupyterlab](https://img.shields.io/badge/jupyterlab-c5540b)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
