@@ -1,6 +1,6 @@
 [project]
-name = ""
-version = ""
+name = "learn_python3_by_ts"
+version = "0.0.1"
 description = ""
 authors = [
     {name = "songbinghui", email = "soongbinghui@gmail.com"},
@@ -14,4 +14,6 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [tool.pdm.scripts]
-learn = "jupyter lab"
+jump = {shell = "cd ./src/learn_python3_by_ts/notebooks"}
+up = "jupyter lab"
+learn = {composite = ["jump", "up"]}
