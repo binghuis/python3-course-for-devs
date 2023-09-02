@@ -18,7 +18,7 @@ jupyter 启动
 ## 目录 & 预览
 
 #### 数据类型
-1. [string](http://nbviewer.jupyter.org/github/binghuis/learn-python3-by-ts/blob/main/src/python3-course-for-ts-devs/notebooks/1_string.ipynb)
+1. [string](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/1_string.ipynb)
 2. number
 3. array / list
 4. object / dict
