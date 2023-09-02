@@ -32,3 +32,8 @@ jupyter 启动
 ### Node & Python3
 
 #### 文件
+
+
+### 参考
+
+部分 Python 内容参考：[@jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)
