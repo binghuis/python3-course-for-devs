@@ -1,6 +1,6 @@
 # 给 TypeScript 开发者写的 Python3 语法课
 
-![jupyterlab](https://img.shields.io/badge/jupyterlab-c5540b)
+![jupyterlab](https://img.shields.io/badge/jupyterlab-F37626)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
 
 本教程面向 TypeScript 开发者，针对 TS 语言特性给出 Python3 对应实现，使 TS 开发者更加容易理解 Python 语法
