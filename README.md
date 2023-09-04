@@ -18,11 +18,12 @@ jupyter 启动
 ## 目录 & 预览
 
 #### 数据类型
-1. [string](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/string.ipynb)
-2. number
-3. array / list
-4. object / dict
-5. 元组
+- [变量/常量](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/var.ipynb)
+- [数字](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/number.ipynb)
+- [布尔](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/boolean.ipynb)
+- array / list
+- object / dict
+- 元组
 
 #### 函数
 
