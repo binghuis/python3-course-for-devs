@@ -18,6 +18,7 @@ jupyter 启动
 ## 目录 & 预览
 
 #### 数据类型
+- 结构体/作用域
 - [变量/常量](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/var.ipynb)
 - [数字](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/number.ipynb)
 - [布尔](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-ts-devs/blob/main/src/python3_course_for_ts_devs/notebooks/boolean.ipynb)
@@ -37,4 +38,6 @@ jupyter 启动
 
 ### 参考
 
-部分 Python 内容参考：[@jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)
+[菜鸟教程]()
+[MDN]()
+[@jerry-git/learn-python3](https://github.com/jerry-git/learn-python3)
