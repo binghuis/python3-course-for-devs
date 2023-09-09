@@ -1,4 +1,4 @@
-# 写给开发者的 Python3 课
+# 写给开发者的 Python3 语法课
 
 ![jupyterlab](https://img.shields.io/badge/jupyterlab-F37626)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
