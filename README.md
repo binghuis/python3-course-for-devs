@@ -1,8 +1,6 @@
 # 写给开发者的 Python 3 语法课
 
-用尽可能精简的语言讲清楚 python 语法，不把时间浪费在阅读无关文字上
-
-如果你已经有其他语言的开发经验，那么你的学习速度将会飞快
+用尽可能精简的语言讲清楚 python 语法，如果你已经有其他语言的开发经验，那么你的学习速度将会飞快
 
 ![jupyterlab](https://img.shields.io/badge/jupyterlab-F37626)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
@@ -23,6 +21,7 @@ jupyter 启动
 
 - [简介](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/intro.ipynb)
 - 基础语法
+- [变量](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
 - 作用域
 - 类
 - 基本数据类型
