@@ -19,11 +19,7 @@ jupyter 启动
 
 ### 基础
 
-- [简介](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/intro.ipynb)
-- 基础语法
-- [变量](http://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
-- 作用域
-- 类
+- [变量](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
 - 基本数据类型
 - 数字
 - 布尔
@@ -36,6 +32,8 @@ jupyter 启动
 - 数据类型转换
 - 条件控制
 - 循环语句
+- 作用域
+- 类
 - 推导式
 - 迭代器 & 生成器
 - 错误 & 异常
