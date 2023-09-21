@@ -22,19 +22,18 @@ jupyter 启动
 - [变量](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
 - [基本数据类型](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/types.ipynb)
 - 数字
-- 布尔
 - 字符串
-- 列表
 - 元组
-- 集合
+- 列表
 - 字典
-- 函数
+- 集合
 - 数据类型转换
+- 函数
 - 条件控制
 - 循环语句
+- 推导式
 - 作用域
 - 类
-- 推导式
 - 迭代器 & 生成器
 - 错误 & 异常
 - 多线程
