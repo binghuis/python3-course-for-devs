@@ -20,7 +20,7 @@ jupyter 启动
 ### 基础
 
 - [变量](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
-- 基本数据类型
+- [基本数据类型](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/data_types.ipynb)
 - 数字
 - 布尔
 - 字符串
