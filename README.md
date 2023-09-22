@@ -20,14 +20,14 @@ jupyter 启动
 ### 基础
 
 - [变量](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
-- [基本数据类型](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/types.ipynb)
-- 数字
+- [数据类型](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/types.ipynb)
+- [数字](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/number.ipynb)
 - 字符串
 - 元组
 - 列表
 - 字典
 - 集合
-- 数据类型转换
+- 类型转换
 - 函数
 - 条件控制
 - 循环语句
@@ -40,7 +40,7 @@ jupyter 启动
 
 ### 补充
 
-- 浮点数计算
+- [0.1 + 0.2 !== 0.3 ?](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/float_calc.ipynb)
 
 
 
