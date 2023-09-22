@@ -13,7 +13,7 @@
 
 jupyter 启动
 
-`pdm run learn`
+`pdm learn`
 
 ## 目录
 
@@ -28,6 +28,7 @@ jupyter 启动
 - 字典
 - 集合
 - 类型转换
+- 隐式类型转换
 - 函数
 - 条件控制
 - 循环语句
