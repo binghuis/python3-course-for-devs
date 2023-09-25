@@ -25,23 +25,23 @@ jupyter 启动
 - [字符串](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/string.ipynb)
 - [列表](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/list.ipynb)
 - [元组](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/tuple.ipynb)
-- 字典
 - 集合
-- 类型转换
-- 隐式类型转换
+- 字典
 - 函数
-- 条件控制
+- 隐式类型转换
+- [真假值](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
+- [条件控制](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/judgment.ipynb)
 - 循环语句
-- 推导式
 - 作用域
+- 推导式
+- 类型转换
 - 类
 - 迭代器 & 生成器
 - 错误 & 异常
 - 多线程
+- 深拷贝 & 浅拷贝
 
 ### 补充
 
 - [0.1 + 0.2 !== 0.3 ?](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/float_calc.ipynb)
-
-
 
