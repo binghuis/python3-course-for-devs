@@ -28,7 +28,6 @@ jupyter 启动
 - 集合
 - 字典
 - 函数
-- 隐式类型转换
 - [真假值](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
 - [条件控制](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/judgment.ipynb)
 - [循环](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/loop.ipynb)
@@ -37,7 +36,7 @@ jupyter 启动
 - 类型转换
 - 类
 - 迭代器 & 生成器
-- 错误 & 异常
+- [异常处理](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/exception.ipynb)
 - 多线程
 - 深拷贝 & 浅拷贝
 
