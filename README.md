@@ -1,6 +1,6 @@
 # 写给开发者的 Python 3 语法课
 
-用尽可能精简的语言讲清楚 python 语法，如果你已经有其他语言的开发经验，那么你的学习速度将会飞快
+用尽可能少的话讲清楚 python 语法，如果你有其他语言的开发经验，会学的飞快
 
 ![jupyterlab](https://img.shields.io/badge/jupyterlab-F37626)
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
