@@ -1,1 +1,9 @@
-c_name = "测试模块名"
+name = __name__
+
+author = "binghuis"
+
+if __name__ == "__main__":
+    print(name)
+
+
+__all__ = ["author"]
