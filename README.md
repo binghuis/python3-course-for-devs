@@ -35,6 +35,8 @@ jupyter 启动
 - [作用域](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/scope.ipynb)
 - [推导式 & 生成器表达式](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/comprehension.ipynb)
 - 类型转换
+- 枚举
+- 垃圾回收
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
 - [魔术方法](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/magic_method.ipynb)
 - [迭代器 & 可迭代对象 & 生成器](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/iterator_generator.ipynb)
