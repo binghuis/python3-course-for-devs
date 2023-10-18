@@ -22,6 +22,7 @@ jupyter 启动
 - [变量](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/var.ipynb)
 - [数据类型 & 特性](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/types.ipynb)
 - [数字](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/number.ipynb)
+- 布尔型
 - [字符串](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/string.ipynb)
 - [列表](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/list.ipynb)
 - [元组](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/tuple.ipynb)
@@ -35,8 +36,8 @@ jupyter 启动
 - [推导式 & 生成器表达式](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/comprehension.ipynb)
 - 枚举
 - 垃圾回收
-- 大小对比
-- 字节、字节数组
+- 对象对比
+- 字节类型
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
 - [魔术方法](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/magic_method.ipynb)
 - [迭代器 & 可迭代对象 & 生成器](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/iterator_generator.ipynb)
