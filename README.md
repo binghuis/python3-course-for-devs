@@ -27,7 +27,6 @@ jupyter 启动
 - [元组](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/tuple.ipynb)
 - [集合](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/set.ipynb)
 - [字典](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/dict.ipynb)
-- 二进制类型
 - [函数](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/function.ipynb)
 - [真假值](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
 - [条件控制](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/judgment.ipynb)
@@ -37,6 +36,7 @@ jupyter 启动
 - 枚举
 - 垃圾回收
 - 大小对比
+- 字节、字节数组
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
 - [魔术方法](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/magic_method.ipynb)
 - [迭代器 & 可迭代对象 & 生成器](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/iterator_generator.ipynb)
