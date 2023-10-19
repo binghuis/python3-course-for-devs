@@ -34,7 +34,7 @@ jupyter 启动
 - [作用域](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/scope.ipynb)
 - [推导式 & 生成器表达式](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/comprehension.ipynb)
 - 枚举
-- 垃圾回收
+- 内存管理垃圾回收
 - 相等性判断 & 大小比较
 - 字节类型
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
