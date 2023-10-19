@@ -28,19 +28,19 @@ jupyter 启动
 - [集合](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/set.ipynb)
 - [字典](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/dict.ipynb)
 - [函数](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/function.ipynb)
-- [真/假](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
+- [真 / 假](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
 - [条件控制](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/judgment.ipynb)
 - [循环](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/loop.ipynb)
-- [作用域](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/scope.ipynb)
+- [作用域 & 命名空间](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/scope.ipynb)
 - [推导式 & 生成器表达式](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/comprehension.ipynb)
-- 枚举
-- 内存管理垃圾回收
 - 字节类型
+- 枚举
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
 - [魔术方法](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/magic_method.ipynb)
 - [迭代器 & 可迭代对象 & 生成器](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/iterator_generator.ipynb)
 - [异常处理](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/exception.ipynb)
 - [模块 & 包](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/module.ipynb)
+- 内存管理垃圾回收
 - 多线程
 - [深拷贝 &（浅拷贝 vs 赋值操作）](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/copy.ipynb)
 
