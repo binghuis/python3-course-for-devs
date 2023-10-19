@@ -28,14 +28,13 @@ jupyter 启动
 - [集合](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/set.ipynb)
 - [字典](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/dict.ipynb)
 - [函数](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/function.ipynb)
-- [真假值](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
+- [真/假](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/bool.ipynb)
 - [条件控制](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/judgment.ipynb)
 - [循环](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/loop.ipynb)
 - [作用域](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/scope.ipynb)
 - [推导式 & 生成器表达式](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/comprehension.ipynb)
 - 枚举
 - 内存管理垃圾回收
-- 相等性判断 & 大小比较
 - 字节类型
 - [类](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/class.ipynb)
 - [魔术方法](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/magic_method.ipynb)
