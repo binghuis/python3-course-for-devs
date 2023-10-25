@@ -7,7 +7,9 @@
 
 ## notebook 启动
 
-安装依赖
+> [pdm 安装](https://github.com/pdm-project/pdm)
+
+依赖安装
 
 `pdm install`
 
