@@ -7,15 +7,14 @@
 
 ## notebook 启动
 
-包管理工具 [pdm](https://github.com/pdm-project/pdm) 安装
+1. 包管理工具 [pdm 安装](https://github.com/pdm-project/pdm) 
+2. 依赖安装
+    
+    `pdm install`
 
-依赖安装
-
-`pdm install`
-
-jupyter 启动
-
-`pdm learn`
+3. jupyter 启动
+    
+    `pdm learn`
 
 ## 目录
 
