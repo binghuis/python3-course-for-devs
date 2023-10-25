@@ -42,6 +42,7 @@
 - [模块 & 包](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/module.ipynb)
 - [深拷贝 &（浅拷贝 vs 赋值操作）](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/copy.ipynb)
 - 线程
+- 异步
 - 内存管理
 
 
