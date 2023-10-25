@@ -7,7 +7,7 @@
 
 ## notebook 启动
 
-> [pdm 安装](https://github.com/pdm-project/pdm)
+包管理工具 [pdm](https://github.com/pdm-project/pdm) 安装
 
 依赖安装
 
