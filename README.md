@@ -45,8 +45,7 @@
 - 文件
 - 线程
 - 异步
-- [内存管理](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/memory.ipynb)
-
+- 内存管理
 
 ### 补充
 
