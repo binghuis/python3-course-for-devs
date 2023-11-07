@@ -14,7 +14,7 @@
 
 3. jupyter 启动
     
-    `pdm learn`
+    `pdm up`
 
 ## 目录
 
