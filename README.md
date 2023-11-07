@@ -3,7 +3,7 @@
 用尽可能少的话讲清楚 Python 3 语法，如果你有其他语言的开发经验，会学的飞快。
 
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
-![jupyterlab](https://img.shields.io/badge/jupyterlab-F37626)
+![jupyterlab](https://img.shields.io/badge/Jupyterlab-F37626?logo=jupyter&labelColor=grey&logoColor=F37626)
 
 ## notebook 启动
 
