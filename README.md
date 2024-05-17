@@ -7,14 +7,14 @@
 
 ## notebook 启动
 
-1. 包管理工具 [pdm 安装](https://github.com/pdm-project/pdm) 
+1. 包管理工具 [pdm 安装](https://github.com/pdm-project/pdm)
 2. 依赖安装
-    
-    `pdm install`
+
+   `pdm install`
 
 3. jupyter 启动
-    
-    `pdm up`
+
+   `pdm up`
 
 ## 目录
 
@@ -50,4 +50,3 @@
 ### 补充
 
 - [0.1 + 0.2 !== 0.3 ?](https://nbviewer.jupyter.org/github/binghuis/python3-course-for-devs/blob/main/src/python3_course_for_devs/notebooks/float_calc.ipynb)
-
